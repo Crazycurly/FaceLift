@@ -1,0 +1,3 @@
+[submodule "third_party/3dgsconverter"]
+	path = third_party/3dgsconverter
+	url = https://github.com/francescofugazzi/3dgsconverter

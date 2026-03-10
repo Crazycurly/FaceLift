@@ -162,6 +162,18 @@ cython_debug/
 #.idea/
 
 
+# Project specific
+.venv/
+.ruff_cache/
+outputs/
+test_output/
+test/
+fastapi_server-old.py
+checkpoints/
+
 # MacOS
 .DS_Store
 */.DS_Store
+uv.lock
+.gradio/certificate.pem
+.python-version
